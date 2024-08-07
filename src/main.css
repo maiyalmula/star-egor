@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  text-decoration: none;
+}
+body {
+  background-color: #10100e;
+  font-family: "Kode Mono", monospace;
+  background-image: url("./bg.jpg");
+  background-size: cover;
+  background-position: top left;
+  background-attachment: fixed;
+}
+img {
+  display: block;
+}

@@ -1,0 +1,16 @@
+.navBar {
+  margin-block: 40px;
+  margin-left: 40px;
+}
+.navBar a {
+  color: #fff;
+  margin-right: 40px;
+  text-shadow: 0 0 2px #000;
+}
+
+.navBar a.active {
+  padding: 5px;
+  border: 2px solid violet;
+  color: violet;
+  border-radius: 2px;
+}/*# sourceMappingURL=styles.css.map */
